@@ -4,7 +4,7 @@
 - :telescope: I'm currently a student at the University of Information Technology
 
 - :seedling: My major is Computer Science
-- 
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
