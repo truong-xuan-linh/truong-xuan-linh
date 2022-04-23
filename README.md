@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![1e1cd2110453b4046d6e6969f6dbab28](https://user-images.githubusercontent.com/79902816/164914253-f60ada74-bc1d-4105-a5ba-c8256cd0afbe.gif)
 <!--
 **truong-xuan-linh/truong-xuan-linh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
