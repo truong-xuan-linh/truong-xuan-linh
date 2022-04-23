@@ -1,16 +1,19 @@
 ### Hi there 👋
-![1e1cd2110453b4046d6e6969f6dbab28](https://user-images.githubusercontent.com/79902816/164914253-f60ada74-bc1d-4105-a5ba-c8256cd0afbe.gif)
-<!--
-**truong-xuan-linh/truong-xuan-linh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ai](https://user-images.githubusercontent.com/79902816/164914425-e8a57fcb-5e45-4600-852f-6a24bcc35790.gif)
+### :woman_technologist: About Me :
+- :telescope: I'm currently a student at the University of Information Technology
 
-Here are some ideas to get you started:
+- :seedling: My major is Computer Science
+- 
+### :hammer_and_wrench: Languages and Tools :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tf" alt="Tf" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40"/>&nbsp;
+</div>
